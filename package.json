@@ -1,0 +1,23 @@
+{
+  "name": "git_tsukiji_repo",
+  "version": "1.0.0",
+  "description": "git repository of tsukiji 1-13-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honggoo/git_tsukiji_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honggoo/git_tsukiji_repo/issues"
+  },
+  "homepage": "https://github.com/honggoo/git_tsukiji_repo#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
