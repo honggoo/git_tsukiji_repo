@@ -18,7 +18,7 @@ server.post('/api/messages', connector.listen());
 
 // Create bot dialogs
 
-var instructions = 'AdWords/Yahoo/Facebook/FreakOut‚ÌL‚É‚Â‚¢‚Ä’m‚è‚½‚¢–‚ğ¿–â‚µ‚Ä‰º‚³‚¢B¿–â‚Ìˆê——‚Í¶‚ÌƒŠƒXƒg‚ğQl‚É‚µ‚Ä‚­‚¾‚³‚¢B...powered by CCI ƒvƒƒgƒŒ';
+var instructions = 'AdWords/Yahoo/Facebook/FreakOutã®åºƒå‘Šã«ã¤ã„ã¦çŸ¥ã‚ŠãŸã„äº‹ã‚’è³ªå•ã—ã¦ä¸‹ã•ã„ã€‚è³ªå•ã®ä¸€è¦§ã¯å·¦ã®ãƒªã‚¹ãƒˆã‚’å‚è€ƒã«ã—ã¦ãã ã•ã„ã€‚...powered by CCI ãƒ—ãƒ­ãƒˆãƒ¬';
 
 var bot = new builder.UniversalBot(connector, function (session) {
 
@@ -46,7 +46,7 @@ var bot = new builder.UniversalBot(connector, function (session) {
 
         default:
             //reply.text('You said \'' + session.message.text + '\'');
-            reply.text('¿–âF \'' + session.message.text + '\'');
+            reply.text('è³ªå•ï¼š \'' + session.message.text + '\'');
             break;
     }
 
