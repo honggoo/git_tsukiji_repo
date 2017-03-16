@@ -7,16 +7,52 @@ git repository of tsukiji 1-13-1
 https://github.com/honggoo/git_tsukiji_repo.git
 
 
+2.Azure 
+App Service URL:
+http://ccibot20170316.azurewebsites.net
 
 
+FTP/デプロイ ユーザー名
+ccibot20170316\honggoo9
+
+サブスクリプション名
+(変更)
+無料試用版
+
+FTP ホスト名
+ftp://waws-prod-ty1-003.ftp.azurewebsites.windows.net
+
+サブスクリプション ID
+5fc7941f-9c8a-4919-af1d-aaa9b8e68ba1
+
+FTPS ホスト名
+ftps://waws-prod-ty1-003.ftp.azurewebsites.windows.net
 
 
+3.Bot profile
 
+Name: *
+ccibotapp20170316
 
+Bot handle: *
+ccibotapp20170316
 
+Description: *
+ccibotapp20170316
 
+Messaging endpoint: 
+https://ccibot20170316.azurewebsites.net/api/messages
 
+アプリ ID とパスワードを生成
 
+アプリ名 
+ccibotapp20170316
+
+アプリ ID 
+fc6ddf05-5e04-4c76-8110-c9272305b9bd
+
+アプリ パスワードを生成して続行
+hV0AnPbUHdDkvHLZYxdis3h
 
 
 
