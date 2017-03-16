@@ -69,7 +69,7 @@ http://localhost:3978/api/messages
 bot App ID / bot App Password -> Connect
 
 
-5.Bot embed code
+5.Bot embed code(Web Chat)
 
 Web Chat -> edit -> Add New Site
 name is  "another_site"
@@ -81,6 +81,11 @@ u9Aluv1c72M.cwA.OTA.qu2obpSlpTlu6G--pKH_Gl-R4JGEIoasKxxMSeOxy8A
 Embed code
 
 <iframe src='https://webchat.botframework.com/embed/ccibotapp20170316?s=u9Aluv1c72M.cwA.D4A.0DFd89dTHv6V595ursRnNhQ7n7VlXdgIibdKBShus1M'></iframe>
+
+
+6.Deploy Node.js App From GitHUb To Azure 
+
+
 
 
 
