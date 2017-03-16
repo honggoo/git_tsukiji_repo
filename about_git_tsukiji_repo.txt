@@ -18,20 +18,20 @@ App Service URL:
 http://ccibot20170316.azurewebsites.net
 
 
-FTP/ƒfƒvƒƒC ƒ†[ƒU[–¼
+FTP/ãƒ‡ãƒ—ãƒ­ã‚¤ ãƒ¦ãƒ¼ã‚¶ãƒ¼å
 ccibot20170316\honggoo9
 
-ƒTƒuƒXƒNƒŠƒvƒVƒ‡ƒ“–¼
-(•ÏX)
-–³—¿ŽŽ—p”Å
+ã‚µãƒ–ã‚¹ã‚¯ãƒªãƒ—ã‚·ãƒ§ãƒ³å
+(å¤‰æ›´)
+ç„¡æ–™è©¦ç”¨ç‰ˆ
 
-FTP ƒzƒXƒg–¼
+FTP ãƒ›ã‚¹ãƒˆå
 ftp://waws-prod-ty1-003.ftp.azurewebsites.windows.net
 
-ƒTƒuƒXƒNƒŠƒvƒVƒ‡ƒ“ ID
+ã‚µãƒ–ã‚¹ã‚¯ãƒªãƒ—ã‚·ãƒ§ãƒ³ ID
 5fc7941f-9c8a-4919-af1d-aaa9b8e68ba1
 
-FTPS ƒzƒXƒg–¼
+FTPS ãƒ›ã‚¹ãƒˆå
 ftps://waws-prod-ty1-003.ftp.azurewebsites.windows.net
 
 
@@ -49,15 +49,15 @@ ccibotapp20170316
 Messaging endpoint: 
 https://ccibot20170316.azurewebsites.net/api/messages
 
-ƒAƒvƒŠ ID ‚ÆƒpƒXƒ[ƒh‚ð¶¬
+ã‚¢ãƒ—ãƒª ID ã¨ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’ç”Ÿæˆ
 
-ƒAƒvƒŠ–¼ 
+ã‚¢ãƒ—ãƒªå 
 ccibotapp20170316
 
-ƒAƒvƒŠ ID 
+ã‚¢ãƒ—ãƒª ID 
 fc6ddf05-5e04-4c76-8110-c9272305b9bd
 
-ƒAƒvƒŠ ƒpƒXƒ[ƒh‚ð¶¬‚µ‚Ä‘±s
+ã‚¢ãƒ—ãƒª ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’ç”Ÿæˆã—ã¦ç¶šè¡Œ
 hV0AnPbUHdDkvHLZYxdis3h
 
 
@@ -69,14 +69,18 @@ http://localhost:3978/api/messages
 bot App ID / bot App Password -> Connect
 
 
-5.Channel
+5.Bot embed code
 
+Web Chat -> edit -> Add New Site
+name is  "another_site"
 
+Secret keys
+u9Aluv1c72M.cwA.D4A.0DFd89dTHv6V595ursRnNhQ7n7VlXdgIibdKBShus1M
+u9Aluv1c72M.cwA.OTA.qu2obpSlpTlu6G--pKH_Gl-R4JGEIoasKxxMSeOxy8A
 
+Embed code
 
-
-
-
+<iframe src='https://webchat.botframework.com/embed/ccibotapp20170316?s=u9Aluv1c72M.cwA.D4A.0DFd89dTHv6V595ursRnNhQ7n7VlXdgIibdKBShus1M'></iframe>
 
 
 
