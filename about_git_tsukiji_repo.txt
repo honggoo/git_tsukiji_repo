@@ -7,6 +7,12 @@ git repository of tsukiji 1-13-1
 https://github.com/honggoo/git_tsukiji_repo.git
 
 
+>git status
+>git add .
+>git commit -m "Updated app.js and about file"
+>git push origin master
+
+
 2.Azure 
 App Service URL:
 http://ccibot20170316.azurewebsites.net
